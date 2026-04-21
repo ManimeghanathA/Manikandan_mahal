@@ -231,7 +231,7 @@ nav ul li a:hover::after { left: 0.8rem; right: 0.8rem; }
       rgba(10,10,10,0.88) 0%,
       rgba(10,10,10,0.65) 50%,
       rgba(10,10,10,0.92) 100%),
-    url('mandapam_images/hero_image.jpg') center/cover no-repeat fixed;
+    url("Mandapam_images/hero_image.jpg") center/cover no-repeat fixed;
 }
 .hero-bg::before {
   content: '';
